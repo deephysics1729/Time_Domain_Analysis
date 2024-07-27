@@ -20,9 +20,7 @@ Time series gleaned from observation of natural phenomena are mostly contaminate
 [Link to the Jupyter notebook](https://github.com/deephysics1729/Time_Domain_Analysis/blob/main/Fourier/02_Noise.ipynb)
 
 
-
-# Time domain analysis: Wavelet transform	        			                  
-
+	
 
 # B1. Overview of discrete and continuous wavelet transform
 
@@ -38,3 +36,5 @@ In this submodule, approximate and detailed wavelet coefficients are calculated 
 
 [Link to the MATLAB notebook](https://github.com/deephysics1729/Time_Domain_Analysis/blob/main/Wavelet/wavelet.mlx)
 
+# Acknowledgements
+Chitradeep Saha, the creator of this notebook, would like to acknowledge various resources collected from Prof. Rajesh K. Nayak, Prof. Ilya Usoskin, Chanseok Kang, Shaw Talebi, GeeksforGeeks and NTIAudio.
