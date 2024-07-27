@@ -37,4 +37,5 @@ In this submodule, approximate and detailed wavelet coefficients are calculated 
 [Link to the MATLAB notebook](https://github.com/deephysics1729/Time_Domain_Analysis/blob/main/Wavelet/wavelet.mlx)
 
 # Acknowledgements
-Chitradeep Saha, the creator of this notebook, would like to acknowledge various resources collected from Prof. Rajesh K. Nayak, Prof. Ilya Usoskin, Chanseok Kang, Shaw Talebi, GeeksforGeeks and NTIAudio.
+Chitradeep acknowledges various resources collected from Prof. Rajesh K. Nayak, Prof. Ilya Usoskin, Chanseok Kang, Shaw Talebi, GeeksforGeeks and NTIAudio to create this repository.
+
